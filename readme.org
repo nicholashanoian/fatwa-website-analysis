@@ -19,8 +19,11 @@ natural language processing to conduct a textual analysis of the
 content of each site.
 
 
+file:docs/tfidf.pdf
+
 ** Organization
 - =scraping= directory: scripts to scrape data from each of the six sites
 - =data= directory: files produced from the =scraping= scripts
 - =analysis= directory: scripts to clean and analyze the data
 - =docs= directory: final paper and presentation for the project
+
