@@ -19,7 +19,7 @@ natural language processing to conduct a textual analysis of the
 content of each site.
 
 
-file:docs/tfidf.pdf
+[[file:docs/tfidf.pdf]]
 
 ** Organization
 - =scraping= directory: scripts to scrape data from each of the six sites
