@@ -1,0 +1,26 @@
+* Fatwa Website Analysis
+This project takes a multidisciplinary approach in order to examine the intersection between Islam and the internet.
+
+Fatwas are nonbinding legal opinions concerning Shari’a given by a
+mufti (religious jurist) in response to a question posed by a private
+individual, judge, or government. They are often simple clarifications
+of already existing aspects of Shari’a, but they can also reflect the
+specific circumstances of a Muslim community due to their specific,
+case-by-case nature. In today’s modern and connected world, increasing
+numbers of people are gaining constant access to the Internet.
+Fatwa-issuing websites have emerged which accept and provide answers
+to anonymously submitted questions. These fatwa-issuing sites impact
+Muslims’ lives differently than the traditional community-based
+formats. This project examines the current landscape of
+English-language fatwa-issuing websites by looking at the
+distinguishing features of six prominent sites. It presents
+descriptive statistics concerning the posts on each site and utilizes
+natural language processing to conduct a textual analysis of the
+content of each site.
+
+
+** Organization
+- =scraping= directory: scripts to scrape data from each of the six sites
+- =data= directory: files produced from the =scraping= scripts
+- =analysis= directory: scripts to clean and analyze the data
+- =docs= directory: final paper and presentation for the project
